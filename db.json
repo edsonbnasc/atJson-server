@@ -1,0 +1,18 @@
+{
+  "series": [
+    {
+      "id": "1",
+      "nomeSerie": "Mulher-Huck",
+      "numTemporadas": 2,
+      "anoLancamento": 2021,
+      "estudio": "Disney"
+    },
+    {
+      "id": "2",
+      "nomeSerie": "Hucks",
+      "numTemporadas": 2,
+      "anoLancamento": 2021,
+      "estudio": "Disney"
+    }
+  ]
+}
