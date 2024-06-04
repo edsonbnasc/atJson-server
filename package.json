@@ -7,9 +7,9 @@
     "start": "npx json-server --watch db.json --port 8082"
   },
   "keywords": [],
-  "author": "",
+  "author": "Edson Batista",
   "license": "ISC",
-  "description": "",
+  "description": "Consumo de API utilizando o JSON-SERVER",
   "dependencies": {
     "json-server": "^1.0.0-beta.0"
   }

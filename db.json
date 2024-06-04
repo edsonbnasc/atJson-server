@@ -1,18 +1,32 @@
 {
   "series": [
     {
-      "id": "1",
-      "nomeSerie": "Mulher-Huck",
-      "numTemporadas": 2,
-      "anoLancamento": 2021,
-      "estudio": "Disney"
+      "id": "7f19",
+      "nomeSerie": "shehuck",
+      "numTemporadas": "2",
+      "estudio": "disney",
+      "anoLancamento": "2022"
     },
     {
-      "id": "2",
-      "nomeSerie": "Hucks",
-      "numTemporadas": 2,
-      "anoLancamento": 2021,
-      "estudio": "Disney"
+      "id": "1bc0",
+      "nomeSerie": "shehuck",
+      "numTemporadas": "2",
+      "estudio": "disney",
+      "anoLancamento": "2022"
+    },
+    {
+      "id": "8ba4",
+      "nomeSerie": "she",
+      "numTemporadas": "2",
+      "estudio": "disney",
+      "anoLancamento": "2022"
+    },
+    {
+      "nomeSerie": "shehuck",
+      "numTemporadas": "1",
+      "estudio": "disney",
+      "anoLancamento": "2018",
+      "id": "45e1"
     }
   ]
 }
